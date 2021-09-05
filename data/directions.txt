@@ -3,6 +3,8 @@ n: north
 s: south
 e: east
 w: west
-point -> n s e w
-corner -> ne nw se sw
-pole -> n s
+point, quarter -> n, s, e, w
+corner -> ne, nw, se, sw
+pole -> n, s
+bearing -> n, s, e, w, ne, nw, se, sw
+bridge player -> n, s, e, w

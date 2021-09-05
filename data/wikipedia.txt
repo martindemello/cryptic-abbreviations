@@ -1,0 +1,562 @@
+A: Accepted
+A: Ace
+A: America
+AM: America
+A: Answer
+A: Area
+AB: Sailor (able-bodied seaman)
+AB: Seaman (able-bodied seaman)
+AB: Tar (able-bodied seaman)
+AC: Account
+AC: Air conditioning
+AC: Airman (aircraftman)
+AC: Bill (account)
+AC: Current (alternating current)
+AC: Electricity (alternating current)
+ACE: One
+DC: Electricity (direct current)
+AD: Advert
+AD: Commercial
+AD: Now (from the Latin Anno Domini)
+AE: Hospital Department (Accident & Emergency), ENT (Ear, Nose & Throat)
+AG: Agricultural
+AG: Silver (chemical symbol)
+AI: Amnesty (Amnesty International)
+AI: Artificial intelligence
+AI: Excellent (looks like 'A1' (first-class, first-rate, top-notch))
+AKA: Also known as
+AL: Aluminium (chemical symbol)
+AL: Gangster/gang leader (Al Capone)
+AM: Morning or Half Day
+AS: Arsenic (chemical symbol)
+ASTI: Wine RED, CAVA, DOC, HOCK
+AT: Atmosphere
+AU: Gold (chemical symbol) 
+OR: Gold (in heraldry)
+AUS: Australia
+OZ: Australia (slang name for Australia)
+AV: Bible (King James bible Authorized version)
+AVE: Avenue
+BA: Bachelor of Arts, Graduate, Degree
+B: Bishop 
+B: Book (or books) 
+NT: Book (New Testament)
+OT: Book (Old Testament)
+MS: Book (Manuscript)
+GEN: Book (Genesis)
+B: Bowled (Cricket scorecard)
+B: Boy
+B: Byte
+BM: Bachelor of Medicine MB
+BO: Sweat (body odor)
+BT: Phone company
+CA: Accountant (chartered accountant)
+C: About
+CA: Calcium
+CA: California
+CA: Chartered accountant
+CA: Current account
+CAIN: Murderer (killed his brother Abel in the Book of Genesis)
+C: Cape
+C: Caught
+CT: Caught
+C: Celsius
+C: Cent
+C: Centigrade
+C: Century
+C: Charlie (NATO phonetic alphabet)
+C: Circa
+C: Cold
+C: Colt
+C: Conservative
+C: Drug (cocaine)
+E: Drug (ecstasy)
+X: Drug (ecstasy) 
+H: Drug (heroin)
+CE: Anglican (Church of England)
+CE: Engineer (civil engineer)
+RE: Engineer (Royal Engineer)
+ME: Engineer (mechanical engineer)
+CF: Compare (abbreviation of the Latin confer)
+CF: Cystic fibrosis
+CH: Chief
+CH: Church
+CE: Church (Church of England)
+RC: Church (Roman Catholic)
+CH: Companion (Order of the Companions of Honour)
+C: Hundred (Roman numeral)
+TON: Hundred
+CID: Detectives YARD (Scotland Yard)
+CL: Chlorine (chemical symbol)
+CO: Care of
+CO: Company
+CO: Firm (company)
+COL: Colonel
+CON: Criminal
+CON: Study
+CON: Tory (slang for Conservative)
+CR: Credit
+CT: Court
+DA: Attorney (District Attorney)
+DA: Lawyer
+DAD: Old man
+DD: Academic (doctor of divinity) or PROF
+D: Date
+D: Daughter
+DD: Doctor of Divinity
+D: Dead or Died
+DEC: Dead (deceased)
+EX: Dead
+D: Deceased
+D: Democrat
+D: Departs
+D: Director
+DD: Theologian (Doctor of Divinity)
+D: Duke
+DEG: Degree
+DH: Lawrence (D. H. Lawrence)
+DI: Inspector (Detective inspector)
+DJ: Dinner jacket
+DM: Deutschmark
+DNA: Genetic code or RNA
+D: Notice (from D-Notice)
+DON: Teacher
+DO: Same (ditto)
+DS: Detective (Detective Sergeant)
+EA: Each
+E: Base (mathematical constant)
+ED: Editor
+ED: Journalist (editor)
+E: Earl
+E: East
+E: Echo
+E: Ecstasy or X (slang names for the drug)
+E: Energy
+J: Energy (joule)
+E: English
+E: European
+EG: For example (e.g., short for the Latin exempli gratia)
+EG: Say (e.g., short for the Latin exempli gratia)
+EN: Nurse (enrolled nurse), SEN (State Enrolled Nurse) or RN (registered nurse)
+E: Oriental (East)
+EP: Record (extended play record)
+ER: Hesitation
+ESC: Escape
+E: Spain (International vehicle registration code)
+ESP: Sixth sense (extrasensory perception)
+EST: Established
+ETA: Basque nationalists
+ETA: Estimated time of arrival
+ET: Alien (extraterrestrial)
+ET: Extra terrestrial
+EU: Europe (European Union), EC (European Community)
+EX: Former
+FA: Football association
+FC: Football club
+FE: Iron (chemical symbol)
+F: Fahrenheit
+F: Fellow
+F: Female
+F: Fine
+F: Following
+F: Force
+G: Force (gravity)
+F: France
+FI: Motor racing (as in F1, Formula One)
+F: Loud (forte)
+FF: Loud (fortissimo)
+G: Acceleration
+GDR: East Germany (German Democratic Republic)
+GER: Germany
+D: Germany (Deutschland)
+G: Gram
+G: Grand, Thousand, 1000
+K: 1000 (kilo)
+G: Horse GG (slang)
+GI: American (U.S. soldier)
+GIG: Engagement
+GP: Grand prix
+GP: Group
+G: Weight (gram), LB (pound)
+HA: Hectare
+HB: Pencil
+HE: Ambassador (his/her excellency)
+HE: Helium
+HE: The man
+H: Hard
+H: Henry
+H: Heroin
+H: Hospital
+H: Hour
+HR: Hour
+H: Husband
+H: Hydrogen
+HO: House
+HP: Hire purchase
+HP: Houses of Parliament
+HP: Never-never (synonym for hire purchase)
+ID: Yours truly (I'd)
+IE: That is (from the Latin id est)
+IE: Thus (short for the Latin id est)
+SO: Thus
+SIC: Thus
+IF: Poem (Kipling)
+II: Eleven (II looks similar to 11)
+I: Independent or IND
+I: Iodine (chemical symbol)
+IN: At home
+IN: Elected
+IN: Home (opposite of 'out')
+IN: Inch
+INST: This month (from the Latin instante mense)
+IN: Trendy (euphemism)
+IOM: Isle of Man
+ION: Charged
+I: One
+IOUS: Debts (IOU)
+IOUS: Promises (I owe yous)
+IO: X (The letters IO look like the number 10)
+IQ: Intelligence
+IRA: Irish Republican Army
+IRE: Ireland
+I: Setter or ME (meaning the setter of the crossword)
+IS: Iceland (country code)
+IS: Island
+ISP: Internet/internet provider (internet service provider)
+IT: Information technology
+IT: Sex appeal (after Clara Bow
+IV: Drip (intravenous drip)
+IV: Four (Roman Numeral)
+IV: Quartet (four in Roman numerals)
+J: Jack
+J: Judge
+REF: Judge
+J: Knave (Jack)
+JR: Junior
+K: Kelvin
+K: Kilo
+KO: Kick off
+KO: Knock out
+K: Potassium (chemical symbol)
+KT: Knot
+KY: Kentucky
+LAB: Labour
+LA: Los Angeles
+LAN: Local area network
+L: Beginner (for Learner)
+LB: Pound (weight)
+L: Pound (from £)
+LD: Lord
+L: Fifty (Roman numeral (lower case L))
+LIT: Literary/Literature
+L: Lake or LA
+L: Latin or LAT
+L: Learner
+L: Lecturer
+L: Left
+L: Liberal or LIB
+L: Line
+L: Litre
+LL: Lines 
+RY: Line, railway
+BR: Rail (British Rail)
+L: Midfielder (the 'mid' letter of 'fielder')
+LO: Look
+L: Plate or P (L-plate and P-plate)
+LP: Record (Long playing record)
+LPO: London Philharmonic Orchestra
+L: Student (learner)
+LT: Lieutenant
+L: Tyro (for learner)
+LW: Long wave
+MA: Master of Arts
+MA: Master's (Master of Arts degree)
+MA: Mother
+MB: Megabyte
+MC: Master of ceremonies
+MED: Mediterranean Sea
+ME: Messerschmitt
+ME: Middle East
+MEN: Soldiers
+M: Frenchman (Monsieur)
+MIC: Manager (man in charge)
+MIG: Fighter plane (type of plane)
+MIG: Jet (type of plane)
+MIG: Plane (type of plane)
+M: Maiden (cricket terminology for no runs in an over)
+M: Male
+M: Married
+M: Master
+M: Mega
+MME: Madame (as in French)
+M: Metre
+M: Million
+M: Minute
+M: Monsieur
+M: Motorway 
+MI: Motorway (looks like M1)
+N: Noon
+MOD: Ministry of Defence
+MP: Army cop (Military Policeman)
+MP: Member of Parliament
+MP: Member (same as Member of Parliament (below))
+MP: Military Police
+MP: Minister Rev
+MP: Politician
+NA: Not applicable
+NA: Sodium (chemical symbol)
+NB: No ball (cricket terminology)
+NB: Note (from the Latin nota bene)
+PS: note (from postscript at the end of a letter)
+NE: Neon (chemical symbol)
+NI: Province (Northern Ireland)
+NI: Ulster (Northern Ireland)
+N: New
+N: Nitrogen
+N: North
+NOH: Drama (Japanese drama Noh)
+NO: Number
+NT: Conservationists (National Trust)
+NT: National Trust
+NT: New Testament
+NUT: Teachers (National Union of Teachers)
+OAP: Old person
+OB: Alumnus (old boy)
+OG: Alumnus (old girl)
+O: Circle (the letter O is a circle), disc
+OC: Officer (Officer Corps) or CO (Commanding Officer)
+OD: Overdose
+O: Duck (from the cricket score of 0)
+OED: Dictionary (Oxford English Dictionary)
+O: Egg (the letter O loosely resembles the shape of an egg)
+O: Hug (the symbol for a hug)
+O: Love (zero score in tennis)
+OM: Award (Order of Merit)
+OM: Order (Order of Merit)
+ON: Leg (cricket: 'on' side = leg side)
+O: Nothing (the letter O looks like the number 0)
+FA: Nothing (from Fanny Adams)
+OO: Ducks
+OO: Glasses, spectacles
+O: Old 
+OL: old (e.g. "good ol' boy")
+O: Over
+O: Oxygen
+OP: Operation
+O: Ring (the letter O looks like a ring)
+OR: Men, section, soldiers (Other ranks, military term for non-commissioned ranks)
+O: Round (the letter O is round)
+OS: Map-makers (Ordnance Survey)
+OS: Operating system
+OS: Ordinary Seaman Rating
+OS: Outsized
+OS: Oversize
+OT: Old Testament
+OTT: Over the top
+O: Wheel
+O: Zero (the letter O looks like the number 0)
+OZ: Ounce (abbreviation)
+PA: Old man, Dad
+PA: Secretary (personal assistant)
+PB: Lead (chemical symbol)
+PC: Computer
+PC: Constable (police constable)
+PE: Exercise (physical education)
+PT: Exercise (physical training), TRAIN
+PH: Pub (Public House)
+PIC: Image
+PI: Good (pious)
+PL: place
+PM: Afternoon
+PM: Prime Minister
+PO: Post office
+PO: Ship's officer (petty officer)
+POW: Prisoner of war
+P: Page
+P: Parking
+P: Penny
+P: Piano
+P: Quiet/quietly (piano)
+SH: Quiet
+PR: Pair
+P: Softly (musical notation)
+PT: Physical training
+PT: Pint
+QC: Silk or KC (From Queen's—or King's—Counsel)
+Q,: Queen ER (Elizabeth Regina), HM (Her Majesty)
+RA: Artillery (Royal Artillery)
+RA: Artist (Royal Academy)
+RAG: Newspaper 
+FT: Newspaper (Financial Times)
+RA: Gunners/Gunmen (Royal Artillery)
+RA: Painters (Royal Academy)
+RC: Roman Catholic
+RD: Road
+RD: Rural Dean
+RD: Way (road)
+RE: Concerning
+RED: Communist
+REF: Arbiter (referee)
+REF: Whistle-blower (referee)
+REME: Army corps (Royal Electrical and Mechanical Engineers (British army))
+REP: Agent (representative)
+REP: Drama Company
+REP: Theatre (The Rep)
+RE: Royal Engineers
+RE: Sappers (the Royal Engineers equivalent of "private")
+RET: Retired
+RM: Jolly (Royal Marine)
+RM: Marines (Royal Marines)
+RM: Royal Marines
+RM: Soldier (Royal Marine), RE (Royal Engineer), GI (General Infantryman), ANT, VET
+RM: Troop (Royal Marine)
+RN: Fleet (Royal Navy)
+RN: Navy (Royal Navy), ABS (able-bodied seamen) or TARS (slang for seamen)
+RN: Royal Navy
+RN: Senior Service (Royal Navy)
+R: Railway
+RY: Railway
+EL: Railway (Chicago "L")
+R: Regina
+R: Republican 
+GOP: Republican (Grand Old Party)
+R: Resistance (physics)
+R: Rex
+R: Right
+R: River
+R: Rook
+RR: Reverend (Right Reverend)
+RR: Rolls Royce
+R: Run
+RU: Game (Rugby Union)
+RU: Rugby (Union)
+S: Bend or U (U-bend and S-bend)
+S: Bob (shilling)
+SC: Namely SS (both from the Latin scilicet), alternative to IE
+SE: Home counties (South East England)
+SO: Significant other
+SP: Odds (starting price)
+SR: Take (from Latin recipe, meaning "take")
+SS: Aboard (used to indicate a word inside the letters SS)
+S: Satisfactory
+S: Second
+MO: moment, short time
+S: Shilling
+S: Small
+SS: Nazis (Schutzstaffel)
+S: Son
+S: South
+S: Spade (playing card suit)
+S: Special
+SP: Special
+SS: Secret service
+SS: Ship (steam ship)
+SS: Steam Ship
+S: Succeeded
+SS: Vessel
+ST: Good Man, Holy man, Saint (abbreviation for Saint)
+ST: Stone
+ST: Street
+ST: Stumped
+SUN: Tabloid
+RAG: Tabloid
+SW: Short wave
+TA: Territorial Army
+TA: Thanks
+TA: Volunteers (Territorial Army)
+RR: Car, Rolls (Rolls-Royce)
+T: Junction (T-junction)
+T: Model (Model T Ford)
+TO: Closed (like a door)
+T: Shirt
+TT: Dry (teetotal)
+AA: Teetotal (Alcoholics Anonymous)
+T: Time
+TT: Rechabite (Rechabite
+UDA: Ulster Defence Association
+UFF: Ulster Freedom Fighters
+U: [for] Everyone ('Universal' BBFC rating)
+U: German submarine (U-boat)
+ULT: Last month (ultimo)
+UMP: Ref (referee
+UN: Peacekeepers (United Nations)
+UN: United Nations
+U: Posh (short for upper class)
+U: Socially acceptable (upper class)
+USS: American ship
+U: Submarine (U-boat) or SUB
+U: United (Man U., common abbreviation of Manchester United F.C.)
+U: University or OU (Open University) or UP (in the UK one goes up to university)
+V: Against or VS (versus)
+VAT: Tax (value added tax)
+VAT: Value added tax
+VC: Decoration (Victoria Cross), GC (George Cross), MM (Military Medal)
+VC: Medal (Victoria Cross), GC (George Cross), OBE (Order of the British Empire), OM (Order of Merit)
+VE: End of war (Victory in Europe, the end of World War II)
+VEN: Archdeacon (Venerable)
+V: Five (Roman numeral)
+VI: Flying bomb (looks like V1)
+VIS: Viscount (abbreviation)
+V: Version
+V: Versus or VS
+V: Very
+WC: Toilet (water closet)
+W: Extra (from the extra runs in cricket for a wide ball)
+WO: Without
+W: Tungsten (chemical symbol)
+W: Wide (cricket)
+W: Wife
+W: With
+W: Work OP (operation), OPUS (classical music)
+X: Certificate U, PG, R, G (from the film certificates)
+X: Chromosome or Y
+X: Cross
+XI: Team (Roman numerals for eleven players in a football or cricket team)
+X: Kiss (the symbol for a kiss)
+XL: Extra large
+X: Rated (film rating)
+X: Ten (Roman numerals) or IO (IO looks like 10)
+X: Times (multiplication symbol)
+X,: Unknown Y or Z (mathematical variable)
+X,: Variable Y or Z (mathematical unknown)
+X: Vote
+Y: Club (YMCA)
+Y: Yard
+YD: Yard
+Y: Tripod (shape of a Tripod)
+Y: Year
+YR: Year
+Z: Last (the last letter of the alphabet)
+Z: Ultimate (last or ultimate letter of the alphabet)
+
+# Some words with multiple suggestions
+
+Article -> A, AN, THE
+Sailor -> TAR, RN, SALT, JACK, HAND, OS
+Current -> AC, DC, I, AMP
+Bill -> AC, IOU, TAB
+Key (computer keyboard) -> ALT, ESC, DEL
+Conservative -> CON, TORY
+Councillor -> CL, CLR, CLLR
+Father -> DA, DAD, FR, PA
+Worker -> ANT, BEE, ARM
+Doctor -> DOC, BM (Bachelor of Medicine), MB (Medicinae Baccalaureus), MD (Medicinae Doctor), MO (medical officer), GP (General Practitioner), DR
+Unknown -> X, Y, Z
+Constant -> E, PI, K
+Side (cricket) -> LEG, OFF, ON
+City -> NY (New York), LA (Los Angeles), EC (postcode for City of London)
+Disease -> TB, ME
+
+
+# TODO
+
+ER: Monarch (Elizabeth Regina), GR (George Rex), Q (queen), K (king) or R (rex/regina)
+ETA: Paramilitaries (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
+ETA: Terrorists (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
+K,: King R (from the Latin rex), HM (His Majesty), or HRH (His Royal Highness), or GR (King George (rex), or CR (King Charles)). Also BB (B.B. King, singer-songwriter)
+K,: Knight KT, KBE (Knight Commander of the Order of the British Empire) or KG (Knight of the Garter) or N (the symbol for a knight on a chessboard)
+LAB,: Party LIB or LD, CON or C or TORY (UK political parties), DO
+P: Coin (penny), D (from the Latin denarius) or C (cent)
+P: Copper (penny), D (denarius), CU (chemical symbol), PC (police constable)
+PC: Policeman/men (Police Constable), DI (Detective Inspector), MET (Metropolitan Police), CID (Criminal Investigation Department)
+PR: Priest REV (reverend), RR (Right Reverend), DD (Doctor of Divinity), FR (Father), ELI (Eli (Bible))
