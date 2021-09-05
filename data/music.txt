@@ -1,0 +1,5 @@
+# Musical notes
+
+note -> a b c d e f g
+note -> do re mi fa so sol la ti
+old note -> ut
