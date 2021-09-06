@@ -550,13 +550,13 @@ Disease -> TB, ME
 
 # TODO
 
-ER: Monarch (Elizabeth Regina), GR (George Rex), Q (queen), K (king) or R (rex/regina)
-ETA: Paramilitaries (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
-ETA: Terrorists (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
-K,: King R (from the Latin rex), HM (His Majesty), or HRH (His Royal Highness), or GR (King George (rex), or CR (King Charles)). Also BB (B.B. King, singer-songwriter)
-K,: Knight KT, KBE (Knight Commander of the Order of the British Empire) or KG (Knight of the Garter) or N (the symbol for a knight on a chessboard)
-LAB,: Party LIB or LD, CON or C or TORY (UK political parties), DO
-P: Coin (penny), D (from the Latin denarius) or C (cent)
-P: Copper (penny), D (denarius), CU (chemical symbol), PC (police constable)
-PC: Policeman/men (Police Constable), DI (Detective Inspector), MET (Metropolitan Police), CID (Criminal Investigation Department)
-PR: Priest REV (reverend), RR (Right Reverend), DD (Doctor of Divinity), FR (Father), ELI (Eli (Bible))
+# ER: Monarch (Elizabeth Regina), GR (George Rex), Q (queen), K (king) or R (rex/regina)
+# ETA: Paramilitaries (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
+# ETA: Terrorists (Basque Nationalists), IRA (Irish Republican Army), UFF (Ulster Freedom Fighters), UDA (Ulster Defence Association)
+# K,: King R (from the Latin rex), HM (His Majesty), or HRH (His Royal Highness), or GR (King George (rex), or CR (King Charles)). Also BB (B.B. King, singer-songwriter)
+# K,: Knight KT, KBE (Knight Commander of the Order of the British Empire) or KG (Knight of the Garter) or N (the symbol for a knight on a chessboard)
+# LAB,: Party LIB or LD, CON or C or TORY (UK political parties), DO
+# P: Coin (penny), D (from the Latin denarius) or C (cent)
+# P: Copper (penny), D (denarius), CU (chemical symbol), PC (police constable)
+# PC: Policeman/men (Police Constable), DI (Detective Inspector), MET (Metropolitan Police), CID (Criminal Investigation Department)
+# PR: Priest REV (reverend), RR (Right Reverend), DD (Doctor of Divinity), FR (Father), ELI (Eli (Bible))
