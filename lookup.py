@@ -1,8 +1,14 @@
 import collections
 from dataclasses import dataclass
 import os
+import re
+import sys
 
 import prompt_toolkit as pt
+
+
+class ParseError(ValueError):
+    pass
 
 
 @dataclass(frozen=True)
@@ -32,6 +38,53 @@ def split_expl(entry: str):
          return entry, ""
 
 
+class LineParser:
+    def __init__(self):
+        self.bc = 0
+        self.lhs = []
+        self.rhs = []
+        self.section = self.lhs
+        self.current = ''
+        self.lhs_abbrs = None
+
+    def finish_word(self):
+        self.section.append(self.current.strip())
+        self.current = ''
+
+    def parse(self, line):
+        """Parse a line into abbreviations and definitions."""
+        toks = re.split(r'([(),:]|->)', line)
+        toks = list(filter(None, toks))
+        for tok in toks:
+            if tok == '(':  # )
+                self.current += tok
+                self.bc += 1
+            elif tok == ')':
+                self.current += tok
+                if self.bc:
+                    self.bc -= 1
+                else:
+                    raise ParseError("Mismatched parentheses:", line)
+            elif self.bc:
+                self.current += tok
+            elif tok == ':':
+                self.lhs_abbrs = True
+                self.finish_word()
+                self.section = self.rhs
+            elif tok == '->':
+                self.lhs_abbrs = False
+                self.finish_word()
+                self.section = self.rhs
+            elif tok == ",":
+                self.finish_word()
+            else:
+                self.current += tok
+        self.finish_word()
+        if self.lhs_abbrs is None:
+            raise ParseError("Missing abbreviation/definition separator:", line)
+        return (self.lhs, self.rhs) if self.lhs_abbrs else (self.rhs, self.lhs)
+
+
 class Abbreviations:
     def __init__(self):
         self.abbrevs = collections.defaultdict(set)
@@ -48,33 +101,15 @@ class Abbreviations:
         for d in defn.split(" "):
             self.reverse[d.upper()].add(out)
 
-    def _process_def_to_abbrev(self, line):
-        # defn1, defn2, ... -> abbr1, abbr2, ...
-        l, r = line.split(" -> ")
-        defs = [x.strip() for x in l.split(",")]
-        abbrevs = [x.strip() for x in r.split(",")]
-        for a in abbrevs:
-            for d in defs:
-                self.add(a, d)
-
-    def _process_abbrev_to_def(self, line):
-        # abbr: defn1, defn2, ...
-        l, r = line.split(":", 1)
-        defs = [x.strip() for x in r.split(",")]
-        for d in defs:
-            self.add(l, d)
-
     def add_line(self, line):
         """Add a line read from a data file."""
         line = line.strip()
         if line.startswith("#") or line == "":
-          return
-        if "->" in line:
-            self._process_def_to_abbrev(line)
-        elif ":" in line:
-            self._process_abbrev_to_def(line)
-        else:
-            raise ValueError(f"Could not parse line: {line}")
+            return
+        abbrs, defs = LineParser().parse(line)
+        for a in abbrs:
+            for d in defs:
+                self.add(a, d)
 
     def lookup_abbr(self, abbr):
         abbr = abbr.strip().upper()
